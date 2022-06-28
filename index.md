@@ -3,19 +3,8 @@ title: Home
 banner_image: "/uploads/2022/06/28/intro-image.webp"
 layout: landing-page
 heading: Knighthood
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
-- heading: Employee Verification
-  description: Comprehensive profiling and screening to let you make confident hiring
-    decisions without any worries
-  icon: "/uploads/2022/06/28/verify.png"
-- heading: Warehousing Solutions
-  description: Establish your warehouses with ease across India and scale your business
-    as needed
-  icon: "/uploads/2022/06/28/warehouse.png"
 - heading: Payroll Services
   description: Complete Employee lifecycle management and ensuring all compliances
     are met with least hassles
@@ -30,6 +19,14 @@ services:
   description: Ensuring your Contractual Workforce meets your business goals in a
     cost effective manner
   icon: "/uploads/2022/06/28/office-worker_318-46470.png"
+- heading: Warehousing Solutions
+  description: Establish your warehouses with ease across India and scale your business
+    as needed
+  icon: "/uploads/2022/06/28/warehouse.png"
+- heading: Employee Verification
+  description: Comprehensive profiling and screening to let you make confident hiring
+    decisions without any worries
+  icon: "/uploads/2022/06/28/verify.png"
 sub_heading: Simplifying Business Services
 textline: Spend less time worrying about managing your temporary workforce
 hero_button:
