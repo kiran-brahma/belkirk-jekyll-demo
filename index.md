@@ -5,10 +5,6 @@ layout: landing-page
 heading: Knighthood
 partners: []
 services:
-- heading: Payroll Services
-  description: Complete Employee lifecycle management and ensuring all compliances
-    are met with least hassles
-  icon: "/uploads/2022/06/28/rupee.webp"
 - heading: Security Solutions
   description: Specialised Guarding and security Solutions designed to meet your needs
   icon: "/uploads/2022/06/28/secure.webp"
@@ -19,6 +15,10 @@ services:
   description: Ensuring your Contractual Workforce meets your business goals in a
     cost effective manner
   icon: "/uploads/2022/06/28/office-worker_318-46470.png"
+- heading: Payroll Services
+  description: Complete Employee lifecycle management and ensuring all compliances
+    are met with least hassles
+  icon: "/uploads/2022/06/28/rupee.webp"
 - heading: Warehousing Solutions
   description: Establish your warehouses with ease across India and scale your business
     as needed
