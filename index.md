@@ -8,6 +8,10 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Payroll Services
+  description: Complete Employee lifecycle management and ensuring all compliances
+    are met with least hassles
+  icon: "/uploads/2022/06/28/rupee.webp"
 - heading: Security Solutions
   description: Specialised Guarding and security Solutions designed to meet your needs
   icon: "/uploads/2022/06/28/secure.webp"
