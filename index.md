@@ -8,6 +8,10 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Employee Verification
+  description: Comprehensive profiling and screening to let you make confident hiring
+    decisions without any worries
+  icon: "/uploads/2022/06/28/verify.png"
 - heading: Warehousing Solutions
   description: Establish your warehouses with ease across India and scale your business
     as needed
