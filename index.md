@@ -8,6 +8,10 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Warehousing Solutions
+  description: Establish your warehouses with ease across India and scale your business
+    as needed
+  icon: "/uploads/2022/06/28/warehouse.png"
 - heading: Payroll Services
   description: Complete Employee lifecycle management and ensuring all compliances
     are met with least hassles
