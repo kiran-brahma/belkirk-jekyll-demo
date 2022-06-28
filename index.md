@@ -14,6 +14,10 @@ services:
 - heading: Facility Management
   description: Ensuring proper functioning of business facilities 24X7
   icon: "/uploads/2022/06/28/facilitu.webp"
+- heading: Staffing Solutions
+  description: Ensuring your Contractual Workforce meets your business goals in a
+    cost effective manner
+  icon: "/uploads/2022/06/28/office-worker_318-46470.png"
 sub_heading: Simplifying Business Services
 textline: Spend less time worrying about managing your temporary workforce
 hero_button:
